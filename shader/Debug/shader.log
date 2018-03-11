@@ -1,0 +1,4 @@
+﻿  shader.cpp
+e:\opengl\opengl-test\practise\shader\shader.cpp(136): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  shader.vcxproj -> E:\OpenGL\OpenGL-Test\practise\Debug\shader.exe
+  shader.vcxproj -> E:\OpenGL\OpenGL-Test\practise\Debug\shader.pdb (Partial PDB)
